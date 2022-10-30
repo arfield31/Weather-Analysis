@@ -7,7 +7,7 @@ This is a python program that uses pandas and matplotlib. It shows record minimu
 Install Jupyter notebook and import this notebook. Download csv file and move to the same directory as this notebook.
 
 ## Graph
-<img src="10 year record temperatures in 2015.jpg" alt="Alt text" title="10 Year Record Temperatures in 2015 (Ann Arbor, Michigan">
+<img src="10 year record temperatures in 2015.jpg" alt="Alt text" title="10 Year Record Temperatures in 2015 (Ann Arbor, Michigan)">
 
 ## References
 https://jupyter.org/
